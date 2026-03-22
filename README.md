@@ -1,6 +1,6 @@
 # zui_qt
 
-A native Qt/PySide6 retained-mode scene-graph toolkit for building zoomable 2D canvas applications with floating tool panels. Originally ported from Processing ZUI concepts, now a full application framework with layout, IPC, scripting, and 14 built-in widgets.
+A native Qt/PySide6 retained-mode scene-graph toolkit for building zoomable 2D canvas applications with floating tool panels. Originally designed to demonstrate ZUI concepts, now a full application framework with layout, IPC, scripting, and 14 built-in widgets.
 
 ## Install and run
 
